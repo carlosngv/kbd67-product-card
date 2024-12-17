@@ -1,5 +1,5 @@
 
-### Carlos ng
+### Carlos Ng
 
 ## Ejemplo
 ```typescript

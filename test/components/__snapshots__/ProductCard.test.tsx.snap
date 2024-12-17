@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductCard should increment counter 1`] = `null`;
+
+exports[`ProductCard should show component with img 1`] = `null`;
+
+exports[`ProductImage should show component with img 1`] = `null`;
+
+exports[`ProductImage should show component with no-image 1`] = `null`;
+
+exports[`ProductImage should show component with product 2 img 1`] = `null`;
