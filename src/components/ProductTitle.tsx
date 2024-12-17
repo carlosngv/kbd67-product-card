@@ -20,7 +20,7 @@ export const ProductTitle = ( { title, className, style } : Props ) => {
     } else if( product.title ){
         productTitle = product.title
     } else {
-        productTitle = 'Product';
+        productTitle = 'New Product';
     }
 
 
